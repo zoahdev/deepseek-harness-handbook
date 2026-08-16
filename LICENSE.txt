@@ -1,0 +1,11 @@
+# CC BY 4.0 署名许可（文档与教程文本）
+
+本仓库中的教程、文章与文档文本采用 Creative Commons Attribution 4.0 International (CC BY 4.0) 许可：
+
+- 您可以自由共享、复制、分发本作品；
+- 您可以自由演绎、修改、转换、基于本作品创作；
+- 条件是必须**署名**（注明出处链接与本许可，并说明是否修改）。
+
+示例代码部分采用 MIT 许可证（可自由使用，保留版权声明即可）。
+
+完整许可文本：https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
