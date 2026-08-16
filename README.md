@@ -17,7 +17,7 @@ DeepSeek Harness（`dsh`）是 DeepSeek 官方开源的 Agent 框架，发布 48
 
 ## 在线阅读
 
-**在线版（已部署）：https://bahuang081-svg.github.io/deepseek-harness-handbook/**
+**在线版（已部署）：https://zoahdev.github.io/deepseek-harness-handbook/**
 
 也可以打开仓库里的 [index.html](index.html) 本地阅读（封面、目录、全部章节，单文件，无需联网）。
 
